@@ -1,2 +1,3 @@
 Initial File 1 text in master branch -- additiona change
 Additiona changes to File 1
+After stash
